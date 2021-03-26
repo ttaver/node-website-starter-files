@@ -9,6 +9,7 @@
   "author": "Ayo Isaiah",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.16.3",
     "pug": "^2.0.3"
   },
